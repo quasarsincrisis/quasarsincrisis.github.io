@@ -4,13 +4,13 @@ layout: wrapper
 
 ---
 
-# Accomodation Suggestions
+# Accommodation Suggestions
 
 - Student Castle, Causewayside ~£100 per night, where the LOC is confirming details here this week. 
 
 - Braid Hills Hotel 
 
-- There are several options listed [here](https://www.roe.ac.uk/ifa/about/Edinburgh_Accommodation.html)
+- There are several options [listed here](https://www.roe.ac.uk/ifa/about/Edinburgh_Accommodation.html)
 
 - AirBnBs
 
