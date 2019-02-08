@@ -10,7 +10,7 @@ Accommodation in Edinburgh in August is *very* hard to get and can be very expen
 Here are two options that we have reserved for you and that we recommend.
 
 - [Braid Hills Hotel](http://www.braidhillshotel.co.uk/). Must be
-  called direct to make the reservation for the discounted rooms. When
+  contacted direct to make the reservation for the discounted rooms. When
   booking, you must state that you want to book a room from the
   ``Royal Observatory block booking and the reference number:
   BHH67597''. A credit or debit card will be require to make and
