@@ -20,7 +20,8 @@ Here are two options that we have reserved for you and that we recommend.
 - Student Castle, Causewayside. We have 35 rooms set aside for the
 meeting, for four nights, 5th - 9th August, that's 4 nights. 20 of
 these rooms have an option for the fifth night, e.g. the Sunday 4th
-August.  Contact
+August. Note, the Student Castle rooms are self-catering. 
+Contact
 [Student Castle](https://www.studentcastle.co.uk/locations/edinburgh-student-accommodation/contact/)
 directly to book here.
 
