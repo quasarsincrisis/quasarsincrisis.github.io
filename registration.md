@@ -14,7 +14,7 @@ layout: wrapper
 - Tue 6th-Fri 9th August: Quasars In Crisis meeting
 
 # Registration
-Link to University of Edinburgh [ePay registration form](https://www.epay.ed.ac.uk/conferences-and-events/college-of-science-and-engineering/school-of-physics-and-astronomy/physics-and-astronomy/quasars-in-crisis). 
+Link to University of Edinburgh [_ePay registration form_](https://www.epay.ed.ac.uk/conferences-and-events/college-of-science-and-engineering/school-of-physics-and-astronomy/physics-and-astronomy/quasars-in-crisis). 
 
 We will be able to provide some limited finanical assitance for
 Early Career Researcher (ECRs) on a case-by-case basis. Please contact

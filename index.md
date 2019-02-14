@@ -32,5 +32,4 @@ Nic Ross
 
 ## Contact: [QuasarsInCrisis@gmail.com](mailto:quasarsincrisis@gmail.com)
 
-### Image Credit:
-S. Gezari
+_Image Credit: S. Gezari_
