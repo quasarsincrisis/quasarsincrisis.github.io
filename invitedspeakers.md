@@ -16,7 +16,7 @@ layout: wrapper
 | Prof. | Shane Davis              | University of Virginia             |
 | Prof. | Mike Eracleous           | Pennsylvania State University      |
 | Dr.   | Stephanie LaMassa        | STScI                              |
-| Dr.   | Hirofumi Noda            | Tohoku University                  |
+| Dr.   | Hirofumi Noda            | Osaka University                  |
 | Prof. | Aneta Siemiginowska      | CfA,  Harvard                      |
 | Dr.   | Ralf Siebenmorgen        | ESO                                |
 | Dr.   | Jessie Runnoe            | University of Michigan             |
