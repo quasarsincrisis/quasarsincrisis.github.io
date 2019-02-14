@@ -9,8 +9,8 @@ layout: wrapper
 - Friday 08th February: First general Announcement
 - Friday 22nd March: Abstract Submission Deadline
 - Friday 05th April: v1.0 of Programme announced
-- Friday 19th April: Registration deadline
-- Friday 26th April: Notify ECRs if they have funding support 
+- late April: Notify ECRs if they have funding support (case-by-case basis) 
+- Friday 07th June: Registration deadline
 - Tue 6th-Fri 9th August: Quasars In Crisis meeting
 
 # Link to University of Edinburgh e-pay registration form: tbc
