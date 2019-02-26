@@ -17,13 +17,12 @@ Here are two options that we have reserved for you and that we recommend.
   secure each reservation. No bookings will be accepted after the 07th
   July 2019.
 
-- Student Castle, Causewayside. We have 35 rooms set aside for the
+- [Student Castle](https://www.studentcastle.co.uk/locations/edinburgh-student-accommodation/), Causewayside. We have 35 rooms set aside for the
 meeting, for four nights, 5th - 9th August, that's 4 nights. 20 of
 these rooms have an option for the fifth night, e.g. the Sunday 4th
-August. Note, the Student Castle rooms are self-catering. 
-Contact
-[Student Castle](https://www.studentcastle.co.uk/locations/edinburgh-student-accommodation/contact/)
-directly to book here.
+August. Note, the Student Castle rooms are self-catering. You can book these rooms through our registration process, but if these run out, there may be more available by 
+[contacting Student Castle](https://www.studentcastle.co.uk/locations/edinburgh-student-accommodation/contact/)
+directly.
 
 - If you would like to sort accomodation options yourself, there are
   several options
