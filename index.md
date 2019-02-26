@@ -8,9 +8,9 @@ layout: wrapper
 
 # Description of Meeting
 
-The motivation of our meeting is to make progress connecting the latest observational and theoretical research involving accretion onto massive black holes, e.g. for the "Changing Look" AGN/quasars and TDEs, with particular emphasis on physical processes that we are now observing over short timescales. 
+The motivation of our meeting is to make progress connecting the latest observational and theoretical research involving accretion onto massive black holes, e.g. for the "Changing Look" AGN/quasars and TDEs, with particular emphasis on physical processes that we are now observing over short timescales. The "crisis" refers to the severe problems these observations cause for accretion theory, though we welcome any other sense of crisis that attendees care to introduce!
 
-We will keep the programme loosely packed in general, with plenty of time in the schedule for organic discussions arising during both the talks, as well as organized discussion sessions.
+We will keep the programme loosely packed in general, with plenty of time in the schedule for organic discussions arising during both the talks, as well as organized discussion sessions. Note that the meeting takes place during the Edinburgh Festival, so there should be plenty of room for amusing diversion.
 
 ## SOC                     
 Chris Done (Durham University)  
