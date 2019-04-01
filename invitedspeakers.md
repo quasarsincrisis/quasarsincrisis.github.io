@@ -21,3 +21,4 @@ layout: wrapper
 | Dr.   | Ralf Siebenmorgen        | ESO                                |
 | Dr.   | Jessie Runnoe            | University of Michigan             |
 | Dr.   | Sjoert Van Velzen        | New York University                |
+| Prof.   | Robert Antonucci        | UC Santa Barbara                |
