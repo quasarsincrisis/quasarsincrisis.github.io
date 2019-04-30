@@ -29,7 +29,6 @@ Catherine Heymans
 Andy Lawrence  
 Nic Ross
 
-
 ## Contact: [QuasarsInCrisis@gmail.com](mailto:quasarsincrisis@gmail.com)
 
 _Image Credit: S. Gezari_
