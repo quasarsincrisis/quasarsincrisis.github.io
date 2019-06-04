@@ -26,8 +26,10 @@ Philip Best
 Alastair Bruce   
 Ines Foidl  
 Catherine Heymans  
-Andy Lawrence  
-Nic Ross
+Andy Lawrence 
+Matt Nicholl  
+Philip Short  
+Nic Ross  
 
 ## Contact: [QuasarsInCrisis@gmail.com](mailto:quasarsincrisis@gmail.com)
 
