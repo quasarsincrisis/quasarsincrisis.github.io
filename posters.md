@@ -1,7 +1,0 @@
----
-
-layout: wrapper
-
----
-
-# Accommodation Suggestions
