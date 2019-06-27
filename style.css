@@ -4,17 +4,17 @@ header img {
 
 header {
     background-color: white;
-    position: fixed;
-    top: 20px;
+    position: absolute;
+    top: 0;
     left: 0;
     right: 0;
-    height: 200px;
+    height: 280px;
     display: flex;
     align-items: center;
 }
 
 body {
-    margin-top: 240px;
+    margin-top: 280px;
 }
 
 @media only screen and (min-width: 481px) {
