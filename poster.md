@@ -4,14 +4,21 @@ layout: wrapper
 
 ---
 
-# e-posters
+# e-posters 
 
+The Quasars in Crisis team have elected to go for 'e-posters', in the form of three-page mini-slide-shows.
+
+* The front page of each e-poster will be displayed in the web page below for your perusal before, during and after the meeting. (One dummy example so far!)
+
+* If you click on the link, you get all three pages.
+
+* The front pages will also cycle through on several display screens during the breaks
+
+* The front page will also be what you should use in the programmed "poster talks" sessions.
+
+ 
 ## For poster guidelines, templates and submission instructions please head here: [Guidelines for submission](posterPrep)
 ___
-
-The Quasars in Crisis team have elected to go for 'e-poster' session(s) for this meeting. All submitted posters will be hosted here for your perusal both before, during and after the meeting.
-
-Above every poster image will be a direct download link for the submitted pdf. In the interests of space, posters with more than one slide will only have their initial slide shown here.
 
 Enjoy!
 
