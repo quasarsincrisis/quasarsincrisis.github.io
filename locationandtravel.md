@@ -5,7 +5,7 @@ layout: wrapper
 ---
 
 # Location                
-The meeting will be held at the Institute for Astronomy (IfA) at the Royal Observatory, Edinburgh. The IfA is one of four major components of the School of Physics and Astronomy at the University of Edinburgh. 
+The meeting will be held at the [Institute for Astronomy](https://www.roe.ac.uk/ifa/) (IfA) at the [Royal Observatory, Edinburgh](https://www.roe.ac.uk). The IfA is one of four major components of the [School of Physics and Astronomy](https://www.ph.ed.ac.uk) at the [University of Edinburgh](https://www.ed.ac.uk). 
 
 ### The address is:
 
