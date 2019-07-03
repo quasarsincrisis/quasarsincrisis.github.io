@@ -17,7 +17,7 @@ The buses that stop at the foot of Blackford Hill are 24, 38 and 41. (Nothing go
 
 Of course we are here to do science, but you might just want some fun. The volume of fun in Edinburgh in August is somewhat overwhelming, so to help you out, here are some key links:
 
-[Edinburgh Festival Cify](https://www.edinburghfestivalcity.com/)
+[Edinburgh Festival City](https://www.edinburghfestivalcity.com/)
 
 [The Fringe](https://www.edfringe.com/)
 
