@@ -14,6 +14,9 @@ University of Edinburgh
 Royal Observatory, Blackford Hill  
 Edinburgh EH9 3HJ, United Kingdom
 
+# Local Information
+
+We have compiled some useful [Edinburgh Tips](Edinburgh_tips_) for you, including information about visiting Edinburgh, about going to Festival events, and about the local bus system.
 
 # Travel
 Edinburgh can be easily reached by plane or train.
