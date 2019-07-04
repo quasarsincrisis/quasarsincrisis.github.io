@@ -22,6 +22,8 @@ Here is a [map of the ROE site]( {{ site.url }}/pngs/ROE-Map.png), with some key
 
 Here is a [Google map](https://drive.google.com/open?id=1Ii4UDD5V7s_zpN-9SQV710F_MvayfKgs&usp=sharing) with some of the key locations marked - ROE, airport, conference dinner location, Student Castle and Braid Hills hotel.
 
+If you are staying at either the Braid Hills Hotel or Student Castle, the easiest way to get to ROE is probably by taxi. (You could organise yourselves and share.) Alternatively, its about a 20-25 minute walk from either location. From Braid Hills its a particularly nice walk, through the Hermitage and Blackford Hill. (You could take a detour to the Agassiz rock.) From Student Castle you can get a 67 or 42 bus to the corner of the Kings Buildings campus, but this still leaves you a 10 minute walk. Whichever way you go, we are afraid there is no avoiding the necessity of getting up Blackford Hill!
+
 # Travel
 Edinburgh can be easily reached by plane or train.
 
