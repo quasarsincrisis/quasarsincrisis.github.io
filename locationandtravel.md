@@ -20,6 +20,7 @@ We have compiled some useful [Edinburgh Tips](Edinburgh_tips) for you, including
 
 Here is a [map of the ROE site]( {{ site.url }}/pngs/ROE-Map.png), with some key locations marked.
 
+Here is a [Google map](https://drive.google.com/open?id=1Ii4UDD5V7s_zpN-9SQV710F_MvayfKgs&usp=sharing) with some of the key locations marked - ROE, airport, conference dinner location, Student Castle and Braid Hills hotel.
 
 # Travel
 Edinburgh can be easily reached by plane or train.
