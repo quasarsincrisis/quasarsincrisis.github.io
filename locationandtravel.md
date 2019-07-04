@@ -18,7 +18,7 @@ Edinburgh EH9 3HJ, United Kingdom
 
 We have compiled some useful [Edinburgh Tips](Edinburgh_tips) for you, including information about visiting Edinburgh, about going to Festival events, and about the local bus system.
 
-Here is a [map of the ROE site](pdfs/ROE-map.pdf), with some key locations marked.
+Here is a [map of the ROE site](pngs/ROE-map.png), with some key locations marked.
 
 
 # Travel
