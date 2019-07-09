@@ -8,7 +8,7 @@ layout: wrapper
 
 | First Name       | Surname                     |  Institution   |
 | Yanli	              | Ai                                |  Sun Yat-sen University | 
-| Kate	              | Alexander                       | CfA, Harvard |
+| Kate	              | Alexander                      | Northwestern University |
 | Omar	              | Almaini                          | University of Nottingham |
 | Almudena        | Alonso-Herrero             | CAB, Madrid |
 | Ski	                  | Antonucci                      | UC, Santa Barbara |
@@ -64,7 +64,7 @@ layout: wrapper
 | Ralf	             | Siebenmorgen                | ESO                | 
 | Aneta              | Siemiginowska               | CfA,  Harvard | 
 | Marzena          | Sniegowska                    |  Polish Academy of Sciences |
-| Benny              | Trakhtenbrot                   | Tel Aviv Uninersity | 
+| Benny              | Trakhtenbrot                   | Tel Aviv University | 
 | Sjoert              | Van Velzen                      | New York University |
 | Martin             | Ward                                | University of Durham |
 | Mike               | Watson                           | University of Leicester |
