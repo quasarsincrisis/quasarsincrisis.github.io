@@ -47,7 +47,7 @@ layout: wrapper
 | Chelsea	           | MacLeod                         | CfA, Harvard |
 | Lydia	               | Makrygianni                    | University of Sheffield |
 | Marcin              | Marculewicz                    | University of Białystok |
-| Barry	               | McKernan                        | City University, New York | |
+| Barry	               | McKernan                        | City University, New York |
 | Teo                   | Munoz-Darias                 | Instituto de Astrofísica de Canarias |
 | Lubos               | Neslusan                        | Slovak Academy of Science |
 | Matt	               |  Nicholl                          | University of Edinburgh |
@@ -55,12 +55,12 @@ layout: wrapper
 | Swayamtrupta   | 	Panda                          | Polish Academy of Sciences |
 | Michael            | 	Parker                         | ESA |
 | Anagha             |  	Raj                               | University of Leicester |
-| Harry                | 	Rendell-Bhatti             | University of Edinbugh |
-| Nic                   | 	Ross                            | University of Edinbugh |
+| Harry                | 	Rendell-Bhatti             | University of Edinburgh |
+| Nic                   | 	Ross                            | University of Edinburgh |
 | John	             |     Ruan                            | University of Washington |
 | Jessie              | 	Runnoe                       | University of Michigan |
 | Paula	             | Sanchez                           | Pontificia Universidad Católica |
-| Phil	             | Short                               | University of Edinbugh |
+| Phil	             | Short                               | University of Edinburgh |
 | Ralf	             | Siebenmorgen                | ESO                | 
 | Aneta              | Siemiginowska               | CfA,  Harvard | 
 | Marzena          | Sniegowska                    |  Polish Academy of Sciences |
@@ -74,6 +74,6 @@ layout: wrapper
 | Jong-Hak        | Woo                             | Seoul National University | 
 | Xue-Bing	        | Wu                            | Peking University|
 | Zhangliang	 |  Xie                                | University of Science and Technology of China | 
-| Dawei              |	Xu            | National Astronomical Observatories, Chinese Academy of Sciences|
-| Daming          | Yang	        | University of Science and Technology of China(
+| Dawei              |	Xu                         | National Astronomical Observatories, Chinese Academy of Sciences |
+| Daming          | Yang	                    | University of Science and Technology of China |
 
