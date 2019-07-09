@@ -58,22 +58,22 @@ layout: wrapper
 | Harry                | 	Rendell-Bhatti             | University of Edinbugh |
 | Nic                   | 	Ross                            | University of Edinbugh |
 | John	             |     Ruan                            | University of Washington |
-| Jessie              | 	Runnoe
-| Paula	             | Sanchez
-| Phil	             | Short
-| Ralf	             | Siebenmorgen        | ESO                | 
-| Aneta              | Siemiginowska   | CfA,  Harvard | 
-| Marzena          | Sniegowska    |   |
-| Benny              | Trakhtenbrot      | Tel Aviv Uninersity | 
-| Sjoert               | 	Van Velzen
-| Martin             | 	Ward   | University of Durham |
-| Mike                | 	Watson     | University of Leicester |
-| John                | 	Weaver    | University of Copenhagen |
-| Thomas	          | Wevers | | 
-| Roy                 | Williams      | University of Edinburgh | 
-| Jong-Hak        | Woo | | 
-| Xuebing	         | Wu ||
-| Zhangliang	|  Xie            | University of Science and Technology of China | 
-| Dawei             |	Xu            | National Astronomical Observatories, Chinese Academy of Sciences|
+| Jessie              | 	Runnoe                       | University of Michigan |
+| Paula	             | Sanchez                           | Pontificia Universidad Católica |
+| Phil	             | Short                               | University of Edinbugh |
+| Ralf	             | Siebenmorgen                | ESO                | 
+| Aneta              | Siemiginowska               | CfA,  Harvard | 
+| Marzena          | Sniegowska                    |  Polish Academy of Sciences |
+| Benny              | Trakhtenbrot                   | Tel Aviv Uninersity | 
+| Sjoert              | Van Velzen                      | New York University |
+| Martin             | Ward                                | University of Durham |
+| Mike               | Watson                           | University of Leicester |
+| John                | Weaver                          | University of Copenhagen |
+| Thomas	         | Wevers                          | University of Cambridge | 
+| Roy                 | Williams                      | University of Edinburgh | 
+| Jong-Hak        | Woo                             | Seoul National University | 
+| Xue-Bing	        | Wu                            | Peking University|
+| Zhangliang	 |  Xie                                | University of Science and Technology of China | 
+| Dawei              |	Xu            | National Astronomical Observatories, Chinese Academy of Sciences|
 | Daming          | Yang	        | University of Science and Technology of China(
 
