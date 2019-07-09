@@ -16,9 +16,9 @@ layout: wrapper
 | Prof. | Shane Davis              | University of Virginia             |
 | Prof. | Mike Eracleous           | Pennsylvania State University      |
 | Dr.   | Stephanie LaMassa        | STScI                              |
-| Dr.   | Hirofumi Noda            | Osaka University                  |
-| Prof. | Aneta Siemiginowska      | CfA,  Harvard                      |
+| Dr.   | Hirofumi Noda            | Osaka University                   |
 | Dr.   | Ralf Siebenmorgen        | ESO                                |
+| Prof. | Aneta Siemiginowska      | CfA,  Harvard                      |
 | Dr.   | Jessie Runnoe            | University of Michigan             |
 | Dr.   | Sjoert Van Velzen        | New York University                |
-| Prof.   | Robert Antonucci        | UC Santa Barbara                |
+| Prof. | Robert Antonucci         | UC, Santa Barbara                  |
