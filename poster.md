@@ -30,7 +30,5 @@ Enjoy!
 
 ---
 
-<!--
 [A. Stronomer (template example)]({{ site.url }}/templates/template.pdf)
 <image src="{{ site.url }}/templates/template.png" />
--->
