@@ -14,6 +14,16 @@ University of Edinburgh
 Royal Observatory, Blackford Hill  
 Edinburgh EH9 3HJ, United Kingdom
 
+# Power and WiFi
+There will be UK power outlets in the IfA LT - don't forget your adapators.
+
+The site has eduroam, which should work for most participants. However, we will also have a dedicated conference wifi - connection details available at the meeting. 
+
+**However**,  we strongly ask you to respect the presenters  **not** check email during the talks. That is not why we are gathering!
+
+# Code of Conduct
+The University of Edinburgh has a Code of Conduct/dignity and respect policy. This can be found <a href="http://www.docs.csg.ed.ac.uk/HumanResources/Policies/Dignity_and_Respect-Policy.pdf">here</a> 
+
 # Local Information
 
 We have compiled some useful [Edinburgh Tips](Edinburgh_tips) for you, including information about visiting Edinburgh, about going to Festival events, and about the local bus system.
@@ -51,7 +61,6 @@ these rooms have an option for the fifth night, e.g. the Sunday 4th August. Note
 - Do contact the LOC using
   [QuasarsInCrisis@gmail.com](mailto:quasarsincrisis@gmail.com) if
   needs be.
-
 
 
 
