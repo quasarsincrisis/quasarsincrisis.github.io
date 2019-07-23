@@ -5,7 +5,11 @@ layout: wrapper
 ---
 # Timings
 
-We will start at 9:00 on Tuesday, Wednesday and Friday, and at 0930 on Thursday (a very slight concession to post-conference-dinner heads.). We will finish around 17:30 on Tuesday and Thursday. On Wednesday we will finish at lunchtime, and have a free afternoon. On Friday we will finish mid-afternoon.
+We will start at 9:00 on Tuesday, Wednesday and Friday, and at 0930 on Thursday (a very slight concession to post-conference-dinner heads.). We will finish around 17:30 on Tuesday and Thursday. On Wednesday we will finish at lunchtime, and have a free afternoon. On Friday we will finish mid-afternoon. Lunch will be provided on all four days, including the Wednesday.
+
+# Registration
+
+At the Monday evening reception we will have the name badges available. (Wear them!) On Tuesday morning we will have full registration - tick your name, collect your badge if you haven't already, pick up conference swag. Should take about 20 seconds.
 
 # Science Programme
 
