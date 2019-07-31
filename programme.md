@@ -5,7 +5,7 @@ layout: wrapper
 ---
 # Timings
 
-We will start at 9:00 on Tuesday, Wednesday and Friday, and at 0930 on Thursday (a very slight concession to post-conference-dinner heads.). We will finish around 17:30 on Tuesday and Thursday. On Wednesday we will finish at lunchtime, and have a free afternoon. On Friday we will finish mid-afternoon. Lunch will be provided on all four days, including the Wednesday.
+We will start at 9:00 on Tuesday, Wednesday and Friday, and at 0930 on Thursday (a very slight concession to post-conference-dinner heads.). We will finish around 17:30 on Tuesday and Thursday. On Wednesday we will finish at lunchtime, and have a free afternoon. On Friday we will finish mid-afternoon. Lunch will be provided on all four days, including the Wednesday. There will also be coffee breaks of course, but Nic likes to be delightfully vague about when they are.
 
 # Registration
 
@@ -17,7 +17,9 @@ We are deliberately leaving some flexibility/discussion time in the programme, a
 
 ![Image](assets/img/QiC_2019Aug_BlockSchedule_v1pnt4.jpg)
 
-Here is the booklet of [talk/poster abstracts](assets/pdf/QiC_Abstracts_v1pnt1.pdf).
+Here is a [two page summary](assets/pdf/prog-summary.pdf) including titles and some approximate timings.
+
+And here is the booklet of [talk/poster abstracts](assets/pdf/QiC_Abstracts_v1pnt1.pdf).
 
 
 # Discussion sessions
