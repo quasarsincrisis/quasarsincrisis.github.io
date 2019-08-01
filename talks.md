@@ -6,7 +6,8 @@ layout: wrapper
 
 # Talk Repository
 
-This page hosts the slides for our scheduled talks. Last updated 01/08/19
+This page hosts the slides for our scheduled talks.
+Last updated: Thu Aug  1 09:42:15 PDT 2019
 
 ### Instructions
 
@@ -17,5 +18,8 @@ Submit files via [QuasarsInCrisis@gmail.com](mailto:quasarsincrisis@gmail.com); 
 Ski Antonucci: "Quasar Viscosity Crisis: I'll believe it when I see it"  
 [link]({{ site.url }}/pdfs/ski-contbn.pdf)  
 
-**Note**: Ski unfortunately Ski cannot after all attend the meeting, but was very keen for speakers and attendees to take a look at his contribution before the meeting. 
+**Note**: Unfortunately Ski cannot after all attend the meeting, but was very keen for speakers and attendees to take a look at his contribution before the meeting.
+
+
+
 
