@@ -15,7 +15,7 @@ Submit files via [QuasarsInCrisis@gmail.com](mailto:quasarsincrisis@gmail.com); 
 
 ## Talks
 
-Ski Antonucci: "Quasar Viscosity Crisis: I'll believe it when I see it"  
+Ski Antonucci: "Quasar Viscosity Crisis: I'll see it when I believe it"  
 [link]({{ site.url }}/pdfs/ski-contbn.pdf)  
 
 **Note**: Unfortunately Ski cannot after all attend the meeting, but was very keen for speakers and attendees to take a look at his contribution before the meeting.
