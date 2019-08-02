@@ -25,8 +25,18 @@ Enjoy!
 
 ---
 
+[M. Marculewicz]({{ site.url }}/pdfs/Marculewicz_poster_2019.pdf)
+<image src="{{ site.url }}/pngs/Marculewicz_poster_2019.png" />
+
+---
+
 [L. Neslusan]({{ site.url }}/pdfs/neslusan_poster.pdf)
 <image src="{{ site.url }}/pngs/neslusan_poster.png" />
+
+---
+
+[M. Nicholl]({{ site.url }}/pdfs/QiC_nicholl.pdf)
+<image src="{{ site.url }}/pngs/QiC_nicholl.png" />
 
 ---
 
