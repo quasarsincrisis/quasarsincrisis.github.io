@@ -17,7 +17,7 @@ We are deliberately leaving some flexibility/discussion time in the programme, a
 
 ![Image](assets/img/QiC_2019Aug_BlockSchedule_v1pnt4.jpg)
 
-Here is a [two page summary](assets/pdf/Programme-summary.pdf) including titles and some approximate timings.
+Here is a [two page summary](assets/pdf/Programme-summary-v2.pdf) including titles and some approximate timings.
 
 And here is the booklet of [talk/poster abstracts](assets/pdf/QiC_Abstracts_v1pnt1.pdf).
 
