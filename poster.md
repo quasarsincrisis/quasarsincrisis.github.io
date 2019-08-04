@@ -25,6 +25,21 @@ Enjoy!
 
 ---
 
+[Y. L. Ai]({{ site.url }}/pdfs/ylai_eposter.pdf)
+<image src="{{ site.url }}/pngs/ylai_eposter.png" />
+
+---
+
+[R. Arcodia]({{ site.url }}/pdfs/Arcodia_Edimburgh19.pdf)
+<image src="{{ site.url }}/pngs/Arcodia_Edimburgh19.png" />
+
+---
+
+[D. Costanzo]({{ site.url }}/pdfs/postercostanzo.pdf)
+<image src="{{ site.url }}/pngs/postercostanzo.png" />
+
+---
+
 [M. Marculewicz]({{ site.url }}/pdfs/Marculewicz_poster_2019.pdf)
 <image src="{{ site.url }}/pngs/Marculewicz_poster_2019.png" />
 
@@ -37,6 +52,16 @@ Enjoy!
 
 [M. Nicholl]({{ site.url }}/pdfs/QiC_nicholl.pdf)
 <image src="{{ site.url }}/pngs/QiC_nicholl.png" />
+
+---
+
+[I. Papadakis]({{ site.url }}/pdfs/quasarsincrisis-papadakis.pdf)
+<image src="{{ site.url }}/pngs/quasarsincrisis-papadakis.png" />
+
+---
+
+[D. Wu]({{ site.url }}/pdfs/Edinburgh_Poster_DaweiXu.pdf)
+<image src="{{ site.url }}/pngs/Edinburgh_Poster_DaweiXu.png" />
 
 ---
 
