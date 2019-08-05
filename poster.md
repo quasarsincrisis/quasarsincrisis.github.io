@@ -65,6 +65,11 @@ Enjoy!
 
 ---
 
+[J. V. Hernández Santisteban]({{ site.url }}/pdfs/hernandez_santisteban_quasars.pdf)
+<image src="{{ site.url }}/pngs/hernandez_santisteban_quasars.png" />
+
+---
+
 [D. Wu]({{ site.url }}/pdfs/Edinburgh_Poster_DaweiXu.pdf)
 <image src="{{ site.url }}/pngs/Edinburgh_Poster_DaweiXu.png" />
 
