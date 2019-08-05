@@ -40,6 +40,11 @@ Enjoy!
 
 ---
 
+[A. Laor]({{ site.url }}/pdfs/Winds3a.pdf)
+<image src="{{ site.url }}/pngs/Winds3a.png" />
+
+---
+
 [M. Marculewicz]({{ site.url }}/pdfs/Marculewicz_poster_2019.pdf)
 <image src="{{ site.url }}/pngs/Marculewicz_poster_2019.png" />
 
