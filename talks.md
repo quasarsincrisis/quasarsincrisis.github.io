@@ -29,6 +29,11 @@ Submit files via [QuasarsInCrisis@gmail.com](mailto:quasarsincrisis@gmail.com); 
 
 ---
 
+[H. Noda]({{ site.url }}/talkpdfs/20190806_noda_UK_QIC_upload.pdf)
+<image src="{{ site.url }}/talkpngs/20190806_noda_UK_QIC_upload.png" />
+
+---
+
 [J. Ruan]({{ site.url }}/talkpdfs/JohnRuan_CLquasars_QuasarsInCrisis.pdf)
 <image src="{{ site.url }}/talkpngs/JohnRuan_CLquasars_QuasarsInCrisis.png" />
 
