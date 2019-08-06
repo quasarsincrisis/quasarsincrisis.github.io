@@ -21,7 +21,7 @@ The Quasars in Crisis team have elected to go for 'e-posters', in the form of th
 
 Enjoy!
 
-(last updated: 18/07/19)
+(last updated: 06/08/19)
 
 ---
 
@@ -35,13 +35,28 @@ Enjoy!
 
 ---
 
+[A. Bruce]({{ site.url }}/pdfs/QiC_ABruce.pdf)
+<image src="{{ site.url }}/pngs/QiC_ABruce.png" />
+
+---
+
 [D. Costanzo]({{ site.url }}/pdfs/postercostanzo.pdf)
 <image src="{{ site.url }}/pngs/postercostanzo.png" />
 
 ---
 
+[C. Done]({{ site.url }}/pdfs/chrisdone_edinburgh19.pdf)
+<image src="{{ site.url }}/pngs/chrisdone_edinburgh19.png" />
+
+---
+
 [A. Laor]({{ site.url }}/pdfs/Winds3a.pdf)
 <image src="{{ site.url }}/pngs/Winds3a.png" />
+
+---
+
+[C. MacLeod]({{ site.url }}/pdfs/QiC_MacLeod.pdf)
+<image src="{{ site.url }}/pngs/QiC_MacLeod.png" />
 
 ---
 
