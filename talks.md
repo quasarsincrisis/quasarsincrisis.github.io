@@ -20,6 +20,13 @@ Ski Antonucci: "Quasar Viscosity Crisis: I'll see it when I believe it"
 
 **Note**: Unfortunately Ski cannot after all attend the meeting, but was very keen for speakers and attendees to take a look at his contribution before the meeting.
 
+---
+
+[J. Ruan]({{ site.url }}/talkpdfs/JohnRuan_CLquasars_QuasarsInCrisis.pdf)
+<image src="{{ site.url }}/talkpngs/JohnRuan_CLquasars_QuasarsInCrisis.png" />
+
+---
+
 
 
 
