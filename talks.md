@@ -22,6 +22,11 @@ Ski Antonucci: "Quasar Viscosity Crisis: I'll see it when I believe it"
 
 ---
 
+[M. Graham]({{ site.url }}/talkpdfs/Quasars in crisis.pdf)
+<image src="{{ site.url }}/talkpngs/Quasars in crisis.png" />
+
+---
+
 [J. Ruan]({{ site.url }}/talkpdfs/JohnRuan_CLquasars_QuasarsInCrisis.pdf)
 <image src="{{ site.url }}/talkpngs/JohnRuan_CLquasars_QuasarsInCrisis.png" />
 
