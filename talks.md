@@ -7,7 +7,8 @@ layout: wrapper
 # Talk Repository
 
 This page hosts the slides for our scheduled talks.
-Last updated: Thu Aug  1 09:42:15 PDT 2019
+
+(last updated: 06/08/19 16:40 BST)
 
 ### Instructions
 
