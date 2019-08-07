@@ -8,7 +8,7 @@ layout: wrapper
 
 This page hosts the slides for our scheduled talks.
 
-(last updated: 06/08/19 17:00 BST)
+(last updated: 07/08/19 10:00 BST)
 
 ### Instructions
 
@@ -34,11 +34,17 @@ Submit files via [QuasarsInCrisis@gmail.com](mailto:quasarsincrisis@gmail.com); 
 
 ---
 
+[S. Panda]({{ site.url }}/talkpdfs/Panda.pdf)
+<image src="{{ site.url }}/talkpngs/Panda.png" />
+
+---
+
 [J. Ruan]({{ site.url }}/talkpdfs/JohnRuan_CLquasars_QuasarsInCrisis.pdf)
 <image src="{{ site.url }}/talkpngs/JohnRuan_CLquasars_QuasarsInCrisis.png" />
 
 ---
 
+[X. Wu]({{ site.url }}/talkpdfs/wuxb190807Edinburgh.pdf)
+<image src="{{ site.url }}/talkpngs/wuxb190807Edinburgh.png" />
 
-
-
+---
