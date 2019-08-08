@@ -4,6 +4,12 @@ layout: wrapper
 
 ---
 
+[Conference photo]({{ site.url }}/assets/img//quasars-in-crisis.jpg)
+<image src="{{ site.url }}/pngs/quasars-in-crisis.png" />
+
+---
+
+
 # Invited Speakers
 
 | Prof. | Almudena Alonso-Herrero  | CAB, Madrid                        |
