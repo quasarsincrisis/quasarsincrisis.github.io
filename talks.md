@@ -29,7 +29,7 @@ Submit files via [QuasarsInCrisis@gmail.com](mailto:quasarsincrisis@gmail.com); 
 
 ---
 
-[M. Graham]({{ site.url }}/talkpdfs/Quasars in crisis.pdf)
+[M. J. Graham]({{ site.url }}/talkpdfs/Quasars in crisis.pdf)
 <image src="{{ site.url }}/talkpngs/Quasars in crisis.png" />
 
 ---
@@ -46,6 +46,11 @@ Submit files via [QuasarsInCrisis@gmail.com](mailto:quasarsincrisis@gmail.com); 
 
 [J. Ruan]({{ site.url }}/talkpdfs/JohnRuan_CLquasars_QuasarsInCrisis.pdf)
 <image src="{{ site.url }}/talkpngs/JohnRuan_CLquasars_QuasarsInCrisis.png" />
+
+---
+
+[P. S. Sáez]({{ site.url }}/talkpdfs/Quasars_in_Crisis_PaulaSanchezSaez_v2.0.pdf)
+<image src="{{ site.url }}/talkpngs/Quasars_in_Crisis_PaulaSanchezSaez_v2.0.png" />
 
 ---
 

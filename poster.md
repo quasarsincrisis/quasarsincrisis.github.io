@@ -65,7 +65,7 @@ Enjoy!
 
 ---
 
-[L. Neslusan]({{ site.url }}/pdfs/neslusan_poster.pdf)
+[L. Neslušan]({{ site.url }}/pdfs/neslusan_poster.pdf)
 <image src="{{ site.url }}/pngs/neslusan_poster.png" />
 
 ---
