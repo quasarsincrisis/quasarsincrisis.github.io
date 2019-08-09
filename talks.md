@@ -8,7 +8,7 @@ layout: wrapper
 
 This page hosts the slides for our scheduled talks.
 
-(last updated: 09/08/19 09:30 BST)
+(last updated: 09/08/19 11:40 BST)
 
 ### Instructions
 
@@ -46,6 +46,11 @@ Submit files via [QuasarsInCrisis@gmail.com](mailto:quasarsincrisis@gmail.com); 
 
 [M. Eracleous]({{ site.url }}/talkpdfs/Mtg_20190805_Edinburgh.pdf)
 <image src="{{ site.url }}/talkpngs/Mtg_20190805_Edinburgh.png" />
+
+---
+
+[S. Frederick]({{ site.url }}/talkpdfs/SFrederick_QiC_Edinburgh_Aug2019.pdf)
+<image src="{{ site.url }}/talkpngs/SFrederick_QiC_Edinburgh_Aug2019.png" />
 
 ---
 
