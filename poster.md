@@ -85,7 +85,7 @@ Enjoy!
 
 ---
 
-[D. Wu]({{ site.url }}/pdfs/Edinburgh_Poster_DaweiXu.pdf)
+[D. Xu]({{ site.url }}/pdfs/Edinburgh_Poster_DaweiXu.pdf)
 <image src="{{ site.url }}/pngs/Edinburgh_Poster_DaweiXu.png" />
 
 ---
