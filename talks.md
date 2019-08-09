@@ -8,7 +8,7 @@ layout: wrapper
 
 This page hosts the slides for our scheduled talks.
 
-(last updated: 08/08/19 15:45 BST)
+(last updated: 09/08/19 09:30 BST)
 
 ### Instructions
 
@@ -29,8 +29,18 @@ Submit files via [QuasarsInCrisis@gmail.com](mailto:quasarsincrisis@gmail.com); 
 
 ---
 
+[B. Czerny]({{ site.url }}/talkpdfs/Bczerny_Edynburg_v6.pdf)
+<image src="{{ site.url }}/talkpngs/Bczerny_Edynburg_v6.png" />
+
+---
+
 [L. Elmer]({{ site.url }}/talkpdfs/Quasars_in_Crisis_Talk_2019.pdf)
 <image src="{{ site.url }}/talkpngs/Quasars_in_Crisis_Talk_2019.png" />
+
+---
+
+[M. Elvis]({{ site.url }}/talkpdfs/2019 Edinburgh ELVIS.pdf)
+<image src="{{ site.url }}/talkpngs/2019 Edinburgh ELVIS.png" />
 
 ---
 
@@ -59,6 +69,11 @@ Submit files via [QuasarsInCrisis@gmail.com](mailto:quasarsincrisis@gmail.com); 
 
 ---
 
+[P. Lira]({{ site.url }}/talkpdfs/IMBH_2.pdf)
+<image src="{{ site.url }}/talkpngs/IMBH_2.png" />
+
+---
+
 [S. Panda]({{ site.url }}/talkpdfs/Panda.pdf)
 <image src="{{ site.url }}/talkpngs/Panda.png" />
 
@@ -69,6 +84,11 @@ Submit files via [QuasarsInCrisis@gmail.com](mailto:quasarsincrisis@gmail.com); 
 
 ---
 
+[A. Siemiginowska]({{ site.url }}/talkpdfs/Quasars2019.pdf)
+<image src="{{ site.url }}/talkpngs/Quasars2019.png" />
+
+---
+
 [P. S. Sáez]({{ site.url }}/talkpdfs/Quasars_in_Crisis_PaulaSanchezSaez_v2.0.pdf)
 <image src="{{ site.url }}/talkpngs/Quasars_in_Crisis_PaulaSanchezSaez_v2.0.png" />
 
@@ -76,6 +96,11 @@ Submit files via [QuasarsInCrisis@gmail.com](mailto:quasarsincrisis@gmail.com); 
 
 [M. Śniegowska]({{ site.url }}/talkpdfs/Outliers_in_Changing-Look_AGN.pdf)
 <image src="{{ site.url }}/talkpngs/Outliers_in_Changing-Look_AGN.png" />
+
+---
+
+[T. Wevers]({{ site.url }}/talkpdfs/Wevers_QiC.pdf)
+<image src="{{ site.url }}/talkpngs/Wevers_QiC.png" />
 
 ---
 
