@@ -29,6 +29,11 @@ Submit files via [QuasarsInCrisis@gmail.com](mailto:quasarsincrisis@gmail.com); 
 
 ---
 
+[M. Campanelli]({{ site.url }}/talkpdfs/Campanelli_Edinburg_2019.pdf)
+<image src="{{ site.url }}/talkpngs/Campanelli_Edinburg_2019.png" />
+
+---
+
 [B. Czerny]({{ site.url }}/talkpdfs/Bczerny_Edynburg_v6.pdf)
 <image src="{{ site.url }}/talkpngs/Bczerny_Edynburg_v6.png" />
 
