@@ -64,13 +64,13 @@ Submit files via [QuasarsInCrisis@gmail.com](mailto:quasarsincrisis@gmail.com); 
 
 ---
 
-[H. Noda]({{ site.url }}/talkpdfs/20190806_noda_UK_QIC_upload.pdf)
-<image src="{{ site.url }}/talkpngs/20190806_noda_UK_QIC_upload.png" />
+[P. Lira]({{ site.url }}/talkpdfs/IMBH_2.pdf)
+<image src="{{ site.url }}/talkpngs/IMBH_2.png" />
 
 ---
 
-[P. Lira]({{ site.url }}/talkpdfs/IMBH_2.pdf)
-<image src="{{ site.url }}/talkpngs/IMBH_2.png" />
+[H. Noda]({{ site.url }}/talkpdfs/20190806_noda_UK_QIC_upload.pdf)
+<image src="{{ site.url }}/talkpngs/20190806_noda_UK_QIC_upload.png" />
 
 ---
 
