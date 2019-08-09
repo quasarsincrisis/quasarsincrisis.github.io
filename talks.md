@@ -89,6 +89,11 @@ Submit files via [QuasarsInCrisis@gmail.com](mailto:quasarsincrisis@gmail.com); 
 
 ---
 
+[R Siebenmorgen]({{ site.url }}/talkpdfs/RalfSiebenmorgen_AgnDustModels.pdf)
+<image src="{{ site.url }}/talkpngs/RalfSiebenmorgen_AgnDustModels.png" />
+
+---
+
 [A. Siemiginowska]({{ site.url }}/talkpdfs/Quasars2019.pdf)
 <image src="{{ site.url }}/talkpngs/Quasars2019.png" />
 
