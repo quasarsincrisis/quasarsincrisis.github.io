@@ -8,7 +8,7 @@ layout: wrapper
 
 This page hosts the slides for our scheduled talks.
 
-(last updated: 09/08/19 16:30 BST)
+(last updated: 12/08/19 10:45 BST)
 
 ### Instructions
 
@@ -66,6 +66,11 @@ Submit files via [QuasarsInCrisis@gmail.com](mailto:quasarsincrisis@gmail.com); 
 
 [K. Horne]({{ site.url }}/talkpdfs/horne_qic-pages-1-31.pdf)
 <image src="{{ site.url }}/talkpngs/horne_qic-pages-1-31.png" />
+
+---
+
+[S. LaMassa]({{ site.url }}/talkpdfs/multiwav_clagn_quasars_in_crisis_website.pdf)
+<image src="{{ site.url }}/talkpngs/multiwav_clagn_quasars_in_crisis_website.png" />
 
 ---
 
