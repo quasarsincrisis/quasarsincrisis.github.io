@@ -8,7 +8,7 @@ layout: wrapper
 
 This page hosts the slides for our scheduled talks.
 
-(last updated: 12/08/19 10:45 BST)
+(last updated: 13/08/19 09:50 BST)
 
 ### Instructions
 
@@ -116,6 +116,16 @@ Submit files via [QuasarsInCrisis@gmail.com](mailto:quasarsincrisis@gmail.com); 
 
 [M. Śniegowska]({{ site.url }}/talkpdfs/Outliers_in_Changing-Look_AGN.pdf)
 <image src="{{ site.url }}/talkpngs/Outliers_in_Changing-Look_AGN.png" />
+
+---
+
+[S. B. Spolaor]({{ site.url }}/talkpdfs/burke-spolaor.pdf)
+<image src="{{ site.url }}/talkpngs/burke-spolaor.png" />
+
+---
+
+[B. Trakhtenbrot]({{ site.url }}/talkpdfs/Trakhtenbrot_SMBH_flares_QiC2019.pdf)
+<image src="{{ site.url }}/talkpngs/Trakhtenbrot_SMBH_flares_QiC2019.png" />
 
 ---
 
