@@ -94,10 +94,16 @@ Submit files via [QuasarsInCrisis@gmail.com](mailto:quasarsincrisis@gmail.com); 
 
 ---
 
+[T. Muñoz-Darias]({{ site.url }}/talkpdfs/Munoz-Darias.pdf)
+<image src="{{ site.url }}/talkpngs/Munoz-Darias.png" />
+
+---
+
 [H. Noda]({{ site.url }}/talkpdfs/20190806_noda_UK_QIC_upload.pdf)
 <image src="{{ site.url }}/talkpngs/20190806_noda_UK_QIC_upload.png" />
 
 ---
+
 
 [S. Panda]({{ site.url }}/talkpdfs/Panda.pdf)
 <image src="{{ site.url }}/talkpngs/Panda.png" />
