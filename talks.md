@@ -8,7 +8,7 @@ layout: wrapper
 
 This page hosts the slides for our scheduled talks.
 
-(last updated: 15/08/19 10:20 BST)
+(last updated: 15/08/19 13:45 BST)
 
 ### Instructions
 
@@ -36,6 +36,11 @@ Submit files via [QuasarsInCrisis@gmail.com](mailto:quasarsincrisis@gmail.com); 
 
 [B. Czerny]({{ site.url }}/talkpdfs/Bczerny_Edynburg_v6.pdf)
 <image src="{{ site.url }}/talkpngs/Bczerny_Edynburg_v6.png" />
+
+---
+
+[S. Davis]({{ site.url }}/talkpdfs/qiq_sdavis.pdf)
+<image src="{{ site.url }}/talkpngs/qiq_sdavis.png" />
 
 ---
 
