@@ -8,7 +8,7 @@ layout: wrapper
 
 This page hosts the slides for our scheduled talks.
 
-(last updated: 19/08/19 14:20 BST)
+(last updated: 19/08/19 14:30 BST)
 
 ### Instructions
 
@@ -89,7 +89,7 @@ Submit files via [QuasarsInCrisis@gmail.com](mailto:quasarsincrisis@gmail.com); 
 
 ---
 
-[L. Klindt]({{ site.url }}/talkpdfs/Klindt_ROE_QuasarsInCrisis.pdf)
+[L. Klindt]({{ site.url }}/talkpdfs/Klindt_ROE_QuasarsInCrisis_compressed.pdf)
 <image src="{{ site.url }}/talkpngs/Klindt_ROE_QuasarsInCrisis.png" />
 
 ---
