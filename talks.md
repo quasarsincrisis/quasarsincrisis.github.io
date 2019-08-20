@@ -8,7 +8,7 @@ layout: wrapper
 
 This page hosts the slides for our scheduled talks.
 
-(last updated: 20/08/19 14:30 BST)
+(last updated: 20/08/19 14:50 BST)
 
 ### Instructions
 
@@ -167,6 +167,16 @@ Submit files via [QuasarsInCrisis@gmail.com](mailto:quasarsincrisis@gmail.com); 
 
 [B. Trakhtenbrot]({{ site.url }}/talkpdfs/Trakhtenbrot_SMBH_flares_QiC2019.pdf)
 <image src="{{ site.url }}/talkpngs/Trakhtenbrot_SMBH_flares_QiC2019.png" />
+
+---
+
+[S. V. Velzen]({{ site.url }}/talkpdfs/quasars_crisis_TDE.pdf)
+<image src="{{ site.url }}/talkpngs/quasars_crisis_TDE.png" />
+
+---
+
+[J. Weaver]({{ site.url }}/talkpdfs/weaver_v1.pdf)
+<image src="{{ site.url }}/talkpngs/weaver_v1.png" />
 
 ---
 
