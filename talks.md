@@ -8,7 +8,7 @@ layout: wrapper
 
 This page hosts the slides for our scheduled talks.
 
-(last updated: 20/08/19 14:50 BST)
+(last updated: 29/08/19 11:40 BST)
 
 ### Instructions
 
@@ -84,6 +84,11 @@ Submit files via [QuasarsInCrisis@gmail.com](mailto:quasarsincrisis@gmail.com); 
 
 ---
 
+[A. A. Herrero]({{ site.url }}/talkpdfs/QIC_AlonsoHerrero.pdf)
+<image src="{{ site.url }}/talkpngs/QIC_AlonsoHerrero.png" />
+
+---
+
 [K. Horne]({{ site.url }}/talkpdfs/horne_qic-pages-1-31.pdf)
 <image src="{{ site.url }}/talkpngs/horne_qic-pages-1-31.png" />
 
@@ -124,9 +129,13 @@ Submit files via [QuasarsInCrisis@gmail.com](mailto:quasarsincrisis@gmail.com); 
 
 ---
 
-
 [S. Panda]({{ site.url }}/talkpdfs/Panda.pdf)
 <image src="{{ site.url }}/talkpngs/Panda.png" />
+
+---
+
+[M. L. Parker]({{ site.url }}/talkpdfs/ngc1566_edinburgh.pdf)
+<image src="{{ site.url }}/talkpngs/ngc1566_edinburgh.png" />
 
 ---
 
@@ -189,6 +198,7 @@ Submit files via [QuasarsInCrisis@gmail.com](mailto:quasarsincrisis@gmail.com); 
 <image src="{{ site.url }}/talkpngs/201908_woo.png" />
 
 ---
+
 [X. Wu]({{ site.url }}/talkpdfs/wuxb190807Edinburgh.pdf)
 <image src="{{ site.url }}/talkpngs/wuxb190807Edinburgh.png" />
 
