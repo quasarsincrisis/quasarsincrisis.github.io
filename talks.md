@@ -8,7 +8,7 @@ layout: wrapper
 
 This page hosts the slides for our scheduled talks.
 
-(last updated: 29/08/19 11:40 BST)
+(last updated: 04/09/19 12:00 BST)
 
 ### Instructions
 
@@ -21,6 +21,11 @@ Submit files via [QuasarsInCrisis@gmail.com](mailto:quasarsincrisis@gmail.com); 
 [Ski Antonucci: "Quasar Viscosity Crisis: I'll see it when I believe it" ]({{ site.url }}/pdfs/ski-contbn.pdf)  
 
 **Note**: Unfortunately Ski cannot after all attend the meeting, but was very keen for speakers and attendees to take a look at his contribution before the meeting.
+
+---
+
+[K. Alexander]({{ site.url }}/talkpdfs/KateAlexander_TDEs_Edinburgh_short.pdf)
+<image src="{{ site.url }}/talkpngs/KateAlexander_TDEs_Edinburgh_short.png" />
 
 ---
 
